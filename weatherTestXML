@@ -1,0 +1,48 @@
+<rss xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
+    <channel>
+        <title>Yahoo! Weather - Los Angeles, CA</title>
+        <link>
+            http://us.rd.yahoo.com/dailynews/rss/weather/Los_Angeles__CA/*http://weather.yahoo.com/forecast/USCA0638_c.html
+        </link>
+        <description>Yahoo! Weather for Los Angeles, CA</description>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 01 Mar 2016 12:47 am PST</lastBuildDate>
+        <ttl>60</ttl>
+        <yweather:location city="Los Angeles" region="CA" country="United States"/>
+        <yweather:units temperature="C" distance="km" pressure="mb" speed="km/h"/>
+        <yweather:wind chill="14" direction="0" speed="0"/>
+        <yweather:atmosphere humidity="89" visibility="4.83" pressure="1016.9" rising="0"/>
+        <yweather:astronomy sunrise="6:20 am" sunset="5:49 pm"/>
+        <image>
+            <title>Yahoo! Weather</title>
+            <width>142</width>
+            <height>18</height>
+            <link>http://weather.yahoo.com</link>
+            <url>
+                http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif
+            </url>
+        </image>
+        <item>
+            <title>Conditions for Los Angeles, CA at 12:47 am PST</title>
+            <geo:lat>34.05</geo:lat>
+            <geo:long>-118.25</geo:long>
+            <link>
+                http://us.rd.yahoo.com/dailynews/rss/weather/Los_Angeles__CA/*http://weather.yahoo.com/forecast/USCA0638_c.html
+            </link>
+            <pubDate>Tue, 01 Mar 2016 12:47 am PST</pubDate>
+            <yweather:condition text="Fair" code="33" temp="14" date="Tue, 01 Mar 2016 12:47 am PST"/>
+            <description>
+                <![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/33.gif"/><br /> <b>Current Conditions:</b><br /> Fair, 14 C<BR /> <BR /><b>Forecast:</b><BR /> Mon - Partly Cloudy. High: 22 Low: 12<br /> Tue - Partly Cloudy. High: 24 Low: 13<br /> Wed - Partly Cloudy. High: 23 Low: 12<br /> Thu - Partly Cloudy. High: 22 Low: 12<br /> Fri - Partly Cloudy. High: 21 Low: 13<br /> <br /> <a href="http://us.rd.yahoo.com/dailynews/rss/weather/Los_Angeles__CA/*http://weather.yahoo.com/forecast/USCA0638_c.html">Full Forecast at Yahoo! Weather</a><BR/><BR/> (provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]>
+            </description>
+            <yweather:forecast day="Mon" date="29 Feb 2016" low="12" high="22" text="Partly Cloudy" code="29"/>
+            <yweather:forecast day="Tue" date="1 Mar 2016" low="13" high="24" text="Partly Cloudy" code="30"/>
+            <yweather:forecast day="Wed" date="2 Mar 2016" low="12" high="23" text="Partly Cloudy" code="30"/>
+            <yweather:forecast day="Thu" date="3 Mar 2016" low="12" high="22" text="Partly Cloudy" code="30"/>
+            <yweather:forecast day="Fri" date="4 Mar 2016" low="13" high="21" text="Partly Cloudy" code="30"/>
+            <guid isPermaLink="false">USCA0638_2016_03_04_7_00_PST</guid>
+        </item>
+    </channel>
+</rss>
+        <!--...-->
