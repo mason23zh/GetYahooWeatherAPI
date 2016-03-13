@@ -1,5 +1,5 @@
 # GetYahooWeatherAPI
-A small lib to parse yahoo weather xml.
+A small Yahoo Weather API
 
 How to use:
 
